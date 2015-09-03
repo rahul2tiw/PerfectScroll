@@ -1,17 +1,9 @@
 {
-  "name": "custom-perfectscroll",
-  "homepage": "https://github.com/rahul2tiw/PerfectScroll",
-  "_release": "28c095fa79",
-  "ignore": [],
-  "dependencies": {},
-  "devDependencies": {},
-  "_resolution": {
-    "type": "branch",
-    "branch": "master",
-    "commit": "28c095fa790e4fe3f41feaeed73e52dc252374e6"
-  },
-  "_source": "git://github.com/rahul2tiw/PerfectScroll.git",
-  "_target": "*",
-  "_originalSource": "custom-perfectscroll",
-  "_direct": true
-  }
+	"name": "custom-perfectscroll",
+	"version": "0.0.1",
+	"main": ["/custom-perfect-scrollbar.js", "/custom-perfect-scrollbar.css"],
+	"ignore": [],
+	"dependencies": {},
+	"devDependencies": {},
+	"homepage": "https://github.com/rahul2tiw/PerfectScroll"
+}
